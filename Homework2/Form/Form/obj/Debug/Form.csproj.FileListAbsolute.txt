@@ -1,0 +1,14 @@
+C:\Users\liwantong\source\repos\Form\Form\bin\Debug\Form.exe.config
+C:\Users\liwantong\source\repos\Form\Form\bin\Debug\Form.exe
+C:\Users\liwantong\source\repos\Form\Form\bin\Debug\Form.pdb
+C:\Users\liwantong\source\repos\Form\Form\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\liwantong\source\repos\Form\Form\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\liwantong\source\repos\Form\Form\obj\Debug\Form.exe
+C:\Users\liwantong\source\repos\Form\Form\obj\Debug\Form.pdb
+C:\Users\22714\Desktop\Homework2\Form\Form\bin\Debug\Form.exe.config
+C:\Users\22714\Desktop\Homework2\Form\Form\bin\Debug\Form.exe
+C:\Users\22714\Desktop\Homework2\Form\Form\bin\Debug\Form.pdb
+C:\Users\22714\Desktop\Homework2\Form\Form\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\22714\Desktop\Homework2\Form\Form\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\22714\Desktop\Homework2\Form\Form\obj\Debug\Form.exe
+C:\Users\22714\Desktop\Homework2\Form\Form\obj\Debug\Form.pdb
