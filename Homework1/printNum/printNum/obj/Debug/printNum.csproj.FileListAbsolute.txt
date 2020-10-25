@@ -1,0 +1,14 @@
+C:\Users\liwantong\source\repos\printNum\printNum\bin\Debug\printNum.exe.config
+C:\Users\liwantong\source\repos\printNum\printNum\bin\Debug\printNum.exe
+C:\Users\liwantong\source\repos\printNum\printNum\bin\Debug\printNum.pdb
+C:\Users\liwantong\source\repos\printNum\printNum\obj\Debug\printNum.csprojAssemblyReference.cache
+C:\Users\liwantong\source\repos\printNum\printNum\obj\Debug\printNum.csproj.CoreCompileInputs.cache
+C:\Users\liwantong\source\repos\printNum\printNum\obj\Debug\printNum.exe
+C:\Users\liwantong\source\repos\printNum\printNum\obj\Debug\printNum.pdb
+C:\Users\22714\Desktop\Homework1\printNum\printNum\bin\Debug\printNum.exe.config
+C:\Users\22714\Desktop\Homework1\printNum\printNum\bin\Debug\printNum.exe
+C:\Users\22714\Desktop\Homework1\printNum\printNum\bin\Debug\printNum.pdb
+C:\Users\22714\Desktop\Homework1\printNum\printNum\obj\Debug\printNum.csprojAssemblyReference.cache
+C:\Users\22714\Desktop\Homework1\printNum\printNum\obj\Debug\printNum.csproj.CoreCompileInputs.cache
+C:\Users\22714\Desktop\Homework1\printNum\printNum\obj\Debug\printNum.exe
+C:\Users\22714\Desktop\Homework1\printNum\printNum\obj\Debug\printNum.pdb
