@@ -1,0 +1,14 @@
+C:\Users\liwantong\source\repos\OrderCode\OrderCode\bin\Debug\OrderCode.exe.config
+C:\Users\liwantong\source\repos\OrderCode\OrderCode\bin\Debug\OrderCode.exe
+C:\Users\liwantong\source\repos\OrderCode\OrderCode\bin\Debug\OrderCode.pdb
+C:\Users\liwantong\source\repos\OrderCode\OrderCode\obj\Debug\OrderCode.csprojAssemblyReference.cache
+C:\Users\liwantong\source\repos\OrderCode\OrderCode\obj\Debug\OrderCode.csproj.CoreCompileInputs.cache
+C:\Users\liwantong\source\repos\OrderCode\OrderCode\obj\Debug\OrderCode.exe
+C:\Users\liwantong\source\repos\OrderCode\OrderCode\obj\Debug\OrderCode.pdb
+C:\Users\22714\Desktop\Homework3\OrderCode\OrderCode\bin\Debug\OrderCode.exe.config
+C:\Users\22714\Desktop\Homework3\OrderCode\OrderCode\bin\Debug\OrderCode.exe
+C:\Users\22714\Desktop\Homework3\OrderCode\OrderCode\bin\Debug\OrderCode.pdb
+C:\Users\22714\Desktop\Homework3\OrderCode\OrderCode\obj\Debug\OrderCode.csprojAssemblyReference.cache
+C:\Users\22714\Desktop\Homework3\OrderCode\OrderCode\obj\Debug\OrderCode.csproj.CoreCompileInputs.cache
+C:\Users\22714\Desktop\Homework3\OrderCode\OrderCode\obj\Debug\OrderCode.exe
+C:\Users\22714\Desktop\Homework3\OrderCode\OrderCode\obj\Debug\OrderCode.pdb
